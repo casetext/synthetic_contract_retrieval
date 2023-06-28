@@ -1,0 +1,8 @@
+torch==1.12.1
+transformers==4.26.0
+jsonlines
+sklearn==1.2.1
+pandas==1.5.1
+numpy==1.23.5
+openai
+datasets
